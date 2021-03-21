@@ -1,7 +1,21 @@
-Deep learning is an artificial intelligence function that imitates the workings of the
-human brain in processing data and creating patterns for use in decision making.
- Deep learning is a subset of machine learning in artificial intelligence (AI) that has
- networks capable of learning unsupervised from data that is unstructured or unlabeled.
- Also known as deep neural learning or deep neural network.
+8.2 Energy Flow Through Ecosystems
+All organisms in an ecosystem need energy. 
+All the energy that we have on Earth originates from the sun. 
+Photosynthetic bacteria convert this energy into usable energy through photosynthesis. 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Energy flows through ecosystems, starting with energy from the sun and traveling through photosynthetic organisms and the organisms that consume them. 
+The majority of energy is lost in the form of heat between levels of the ecosystem. This is because energy is used by the individual in order to produce heat, digest, and go through basic daily functioning.
 
+Trophic Levels
+As energy flows through an ecosystem it travels through trophic levels. 
+A trophic level is the energy level in which an organism exists based on what it eats. 
+Autotrophs produce their own energy (think: plants and photosynthetic bacteria). 
+Heterotrophs get their energy from other organisms (think: everyone else).
+
+Maintaining Energy
+Along with storing energy, organisms also have different strategies for maintaining heat and energy within their bodies. 
+Endotherms maintain an even temperature in their bodies. 
+We are examples of endotherms, as we maintain a body temperature between 35.5 and 36.5°C.
+
+The overall availability of energy in an ecosystem determines the growth, population density, and overall health of the ecosystem. If there are a number of high-volume producers in the area, an ecosystem is more capable of survival and reproduction.
 
